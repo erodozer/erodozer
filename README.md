@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Software Engineer scaling small services to large audiences.  
+Currently employed by @themeetgroup
+
+Projects on my public github are typically just hobby projects built for self learning.
+
+I'm super passionate about
+- retro tech and aesthetics
+- game design
+- highly interactive UX and easy to read UIs
+- art
+
+If you're looking for help on a project of your own, I'd love to collaborate by
+
+- providing programming for games written for Godot
+- providing Art or Programming for visual novels
+
+-----
+
+Spoken languages: English
+
+Preferred Programming langauges: Javascript, Python, Kotlin, Lua
+
+Favorite Tools: Godot, Nodejs
