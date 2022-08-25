@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software Engineer scaling small services to large audiences.  
-Currently employed by @play-co
 
 Projects on my public github are typically just hobby projects built for self learning.
 
