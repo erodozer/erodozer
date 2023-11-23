@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**nhydock/nhydock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**erodozer/erodozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,11 +29,20 @@ If you're looking for help on a project of your own, I'd love to collaborate by
 
 - providing programming for games written for Godot
 - providing Art or Programming for visual novels
+- creating reactive experiences for streamer/vtuber overlays
 
 -----
 
-Spoken languages: English
+Spoken languages:
+> English
 
-Preferred Programming langauges: Javascript, Python, Kotlin, Lua
+Preferred Programming langauges:
+> Javascript, Python, Kotlin, Lua
 
-Favorite Tools: Godot, Nodejs
+Known Programming languages (ranked by proficency):
+> JS/TS, Python, Java, Lua, Kotlin, Scala
+> C#, PHP, Go, Elixir
+
+Favorite Tools:
+> Godot, Krita
+> Nodejs, Redis, Postgres, Terraform
