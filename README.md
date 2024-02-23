@@ -40,9 +40,9 @@ Preferred Programming langauges:
 > Javascript, Python, Kotlin, Lua
 
 Known Programming languages (ranked by proficency):
-> JS/TS, Python, Java, Lua, Kotlin, Scala
+> JS/TS, Python, Java, Lua, Kotlin, Scala,
 > C#, PHP, Go, Elixir
 
 Favorite Tools:
-> Godot, Krita
+> Godot, Krita,
 > Nodejs, Redis, Postgres, Terraform
