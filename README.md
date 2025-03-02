@@ -15,38 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer scaling small services to large audiences.  
+I'm a Senior Software Engineer scaling small services to large audiences.  
 
-Projects on my public github are typically just hobby projects built for self learning.
+_Projects on my public github are typically just hobby projects built for self learning, unassociated with any employment_
 
-I'm super passionate about
-- retro tech and aesthetics
-- game design
-- highly interactive UX and easy to read UIs
-- art
+I'm extra passionate about  
+
+💽 - retro tech and aesthetics  
+🕹️ - game design  
+🐕 - highly interactive UX and easy to read UIs  
+🎨 - art  
 
 If you're looking for help on a project of your own, I'd love to collaborate by
 
 - providing programming for games written for Godot
-- providing Art or Programming for visual novels
+- drawing concept art and full screen illustrations
 - creating reactive experiences for streamer/vtuber overlays
 
-You can sponsor my work through Ko-fi
+You can sponsor my independent work through Ko-fi
 
 <a href='https://ko-fi.com/B0B65TSH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 -----
+[![Programming Languages](https://skillicons.dev/icons?i=java,scala,js,ts,python)](https://skillicons.dev)  
+[![Frameworks](https://skillicons.dev/icons?i=godot,spring,nodejs,vue,react)](https://skillicons.dev)
 
-Spoken languages:
-> English
-
-Preferred Programming langauges:
-> Javascript, Python, Kotlin, Lua
-
-Known Programming languages (ranked by proficency):
-> JS/TS, Python, Java, Lua, Kotlin, Scala,
-> C#, PHP, Go, Elixir
-
-Favorite Tools:
-> Godot, Krita,
-> Nodejs, Redis, Postgres, Terraform
+<sub>While I've worked with many more not listed, these are my favorite languages and tools</sub>
